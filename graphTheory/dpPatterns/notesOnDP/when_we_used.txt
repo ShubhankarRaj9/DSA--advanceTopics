@@ -1,0 +1,8 @@
+overlapping subproblems
+maximize/minimize some value
+finding number of ways
+covering all cases(Dp vs Greedy)
+check for possibility
+
+Default value: this is the concept from which we have decided to solve the problem and store it or simply retrieve the value. 
+   
