@@ -1,0 +1,4 @@
+What is DSU?
+-> .DSU (Disjoint Set Union) is a data structure in DSA that maintains disjoint sets and supports efficient operations to find an element’s set representative (find) and to merge two sets (union).
+ 
+
